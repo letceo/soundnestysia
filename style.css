@@ -1,0 +1,40 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background:#bb79fa;
+  justify-content: center;
+  align-items: center;
+}
+
+.titleBlock{
+  max-width:100%;
+  margin:auto;
+  margin-bottom:0%;
+
+}
+.gameTitle {
+  text-align:center;
+  font-family:Poppins;
+  position:relative;
+  color:white;
+  font-size:2rem;
+  max-width:80%;
+  margin:auto;
+  margin-bottom:0px;
+}
+
+.desc{
+  text-align:center;
+  font-family:Poppins;
+  position:relative;
+  color:white;
+  font-size:1rem;
+  max-width:90%;
+  margin:auto;
+  margin-top:0%
+}
+
+#sketch-holder{
+text-align:center;
+border: solid 30px #bb79fa;
+}
